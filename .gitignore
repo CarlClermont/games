@@ -1,1 +1,6 @@
 Catan.vpp.bak_*
+/.metadata/
+.recommenders*
+.classpath
+org.eclipse.jdt.core.prefs
+.project
